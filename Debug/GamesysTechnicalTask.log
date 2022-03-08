@@ -1,0 +1,5 @@
+﻿  GamesysTechnicalTask.cpp
+  Price.cpp
+C:\Users\meshuser\source\repos\GamesysTechnicalTask\Price.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  GamesysTechnicalTask.vcxproj -> C:\Users\meshuser\source\repos\GamesysTechnicalTask\Debug\GamesysTechnicalTask.exe

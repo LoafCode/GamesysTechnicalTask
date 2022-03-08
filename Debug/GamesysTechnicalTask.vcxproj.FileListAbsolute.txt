@@ -1,0 +1,2 @@
+C:\Users\meshuser\source\repos\GamesysTechnicalTask\Debug\GamesysTechnicalTask.exe
+C:\Users\meshuser\source\repos\GamesysTechnicalTask\Debug\GamesysTechnicalTask.pdb
